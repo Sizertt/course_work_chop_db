@@ -43,4 +43,4 @@ insert into Employees values (12378, 'Столяров Алексей Петро
 ```
 
 # Для запуска нужно:
-+ [файл](https://github.com/TheHexReader/course_work_astronomy_db/blob/main/dump_astronomy_db.sql) дампа базы данных.
++ [файл](https://github.com/Sizertt/course_work_chop_db/blob/main/dump_chop_db.sql) дампа базы данных.
